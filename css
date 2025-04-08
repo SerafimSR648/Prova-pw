@@ -1,0 +1,74 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0%;
+    text-align: center;
+}
+#cabecalho{
+    background:linear-gradient(to left, yellow, rgb(240, 177, 4));
+    background-color: rgba(240, 225, 7, 0.965);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 2em 0;
+}
+#Menu{
+    background-color: rgb(255, 244, 179);
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+    border: solid 2px;
+}
+.link{
+    color: rgb(2, 2, 1);
+    text-decoration: none;
+    margin: 0 10px;
+
+    
+}
+#principal{
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+    font-family: Arial black;
+    padding: 10px;
+    border-radius: 15px;
+    padding: 3px;
+    border: solid 3px
+    
+}
+.container{
+    width: 100%;
+    overflow: hidden;
+}
+#referencia{
+    background-color: rgb(255, 255, 255);
+    color: rgb(15, 8, 8);
+    padding: 3em 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.float-box{
+    width: 42%;
+    height: 150px;
+    float: left;
+    margin: 2.5%;
+    background-color: rgb(224, 213, 51);
+    text-align: center;
+    line-height: 150px;
+    font-weight: bold;
+    margin: 2%;
+}
+.float-box:hover{
+    background-image: url("/prova/Img/eli.jpg");
+    background-size: contain;
+
+}
+#junior:hover{
+    background-image: url("/prova/Img/tro.jpg");
+    background-size: contain;
+}
+#fraga:hover{
+    background-image: url("/prova/Img/juliano.jpg");
+}
+#osiel:hover{
+    background-image: url("/prova/Img/osiel.jpg");
+}
