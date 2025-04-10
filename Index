@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PROJETO</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/css123/style111.css">
 </head>
 <body>
     <!--Cabeçalho-->
@@ -14,34 +14,33 @@
 
     <!--Menu de navegação-->
     <nav id="Menu">
-        <a href="#" class="link">Home</a>
-        <a href="index2.html" class="link" target="_blank">Biblioteca</a>
-        <a href="#" class="link">Comentarios biblicos</a>
+        <a href="index2.html" class="link" target="_self">Home</a>
+        <a href="#" class="link" >Referências</a>
         <a href="#" class="link">Sobre</a>
     </nav>
 
     <!--Conteudo principal-->
     <main id="principal">
         <h2>Informações principais sobre o site!</h2>
-        <p>Está é a pagina inicial do nosso site.
+        <p id="p">Está é a pagina inicial do nosso site.
              Aqui vc aprenderá e encontrará curiosidades e conteúdos sobre a biblia,
               sendo este um pequeno site que te aproxima de Deus!</p>
               <ul id="lista"><h3>Aqui você encontrará conteúdos como:</h3>
-                <li>Traduções biblicas</li>
-                <li>Comentarios biblicos</li>
-                <li>Exégese de textos</li>
-                <li>Traduções biblicas</li>
-                <li>Dicas de como fazer seu devocional</li>
+                <li><I>TRADUÇÕES BIBLICAS</I></li>
+                <li><I>COMENTARIOS BIBLICOS</I></li>
+                <li><I>EXEGESES DE TEXTOS</I></li>
+                <li><I>DICAS DE DEVOCIONAL</I></li>
               </ul>
+              <p>Obs:Se dirija a pagina Home para encontrar todos os conteúdos.</p>
     </main>
 
-    <!--Referencias-->
+    <!--Referencias
     <div id="container">
         <h2 id="referencia">Referências dos autores:</h2>
             <div class="float-box">Pr.Elizeu Rodrigues</div>
             <div class="float-box" id="junior">Pr.Junior Trovão</div>
             <div class="float-box" id="fraga">Pr.Juliano Fraga</div>
-            <div class="float-box" id="osiel">Pr.Osiel Gomes</div>
+            <div class="float-box" id="osiel">Pr.Osiel Gomes</div> -->
     </div>
     <!--Rodapé-->
     <footer>
