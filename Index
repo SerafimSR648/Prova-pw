@@ -1,54 +1,68 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PROJETO</title>
-    <link rel="stylesheet" href="/css123/style111.css">
+    <title>Basquete</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
+<header>
+    <h1>BASQUETE NA VEIA</h1>
+</header>
+<main>
+        <h1>QUAL É A FINALIDADE DESSE SITE?</h1>
+        <div class="inicio">
+            <p id="inicial">Esse site  tera a finalidade de te apresentar
+                 fundamentos, regras e dicas do basquete de uma maneira mais facil,
+                sendo esse site uma mão amiga para você que está começando nesse esporte e que não sabe as regras, nem por onde começar,
+                 mas que acima de tudo quer aprender e melhorar para jogar aquele basquete dahora e bonito. Então bora que bora!  
+            </p>
+            <img src="/img/jordan.jpg" alt="frase motivadora do Jordan"><br>
+        </div>
+        <br><div class="meio">
+            <ul>
+               <br><br><br><br><br><br> <li>DRIBLES</li>
+                <p id="drible">
+                   <br><b>Drible no basquete</b> é o ato de quicar a bola com uma das mãos enquanto se movimenta. É um <b> fundamento essencial</b>, pois permite avançar em quadra, escapar da marcação e criar jogadas. Um bom drible começa com postura baixa, visão levantada e controle da bola com a ponta dos dedos — nunca com a palma.
+                   <b><br> Dica rápida:</b> use o corpo pra proteger a bola, alterne mãos e mude de ritmo pra confundir o defensor. Pratique o drible de velocidade e o de controle, ambos são úteis em situações diferentes.
+                   <b> <br> Resumindo:</b> driblar bem é ter mobilidade, visão e ritmo. Domine isso e o jogo flui.
+                   <br><img src="/img/irving.jpg" alt="drible do Kyrie Irving">
+                   <p id="ir"><i>Driblar no estilo pick Kyrie Irving</i></p>
+                </p>
+                
+                <br><br><br><br><br><br><br><br><br><br><br> <li>ARREMESSO</li>
+                <p id="arremesso">
+                    <br><b>Arremesso no basquete</b> é o ato de lançar a bola em direção à cesta pra marcar pontos. É um <b>fundamento chave</b> e precisa de técnica: base firme, cotovelo alinhado, pulso firme e finalização com a mão "dentro da cesta".
+                    <b><br>Dica rápida:</b> foco na mecânica, equilíbrio e repetição. Não é só força — é ritmo. Treine o arremesso parado, em movimento e sob pressão.
+                    <b>Resumo:</b> um bom arremesso vem da consistência. Mira, respira, confia e solta.
+                    <br> <img src="/img/arremesso2.jpg" alt="Stephen Curry aremessando">
+                    <p id="cur"><i>Aremessando pick Stephen Curry</i></p>
+                </p>
+
+                <br><br><br><br><br><br><br><br><br><br><br> <li>PASSE</li>
+                <p id="passe">
+                    <br><b>Passe no basquete</b> é a forma de mover a bola entre os jogadores. É um <b>fundamento essencial</b> pra velocidade, entrosamento e quebra da defesa. Existem vários tipos: peito, quicado, por cima da cabeça, de ombro…
+                    <br><b>Dica rápida:</b> passe com firmeza, precisão e no tempo certo. Sempre olhando o jogo, não a bola. Use o corpo pra proteger e enganar o marcador.
+                    <b>Resumo:</b> bom passe é leitura + execução. Quem passa bem, faz o time jogar.
+                    <br> <img src="/img/tatum.jpg" alt="Foto Jayson Tatum">
+                    <p id="tat"><i>Passe pick Jayson Tatum</i></p>
+                </p>
+
+                <br><br><br><br><br><br><br><br><br><br><br> <li>MANEJO DE BOLA</li>
+                <P id="manejo">
+                   <br><b>Manejo de bola</b> no basquete é o controle total da bola durante dribles, fintas e mudanças de direção. É um <b> fundamento</b> que dá liberdade pra criar jogadas, escapar da marcação e comandar o ritmo.
+                   <br><b>Dica rápida:</b> treine com as duas mãos, variações de altura e velocidade, sempre com a cabeça erguida. Cones, dribles baixos e trocas rápidas ajudam muito.
+                   <b><br>Resumo:</b> bom manejo = controle + confiança. Quem domina a bola, domina o jogo.
+                   <br><img src="/img/kobe.jpg" alt="Foto do Kobe Briant">
+                   <p id="kob"><i>Manejo pick Kobe Briant</i></p>
+                </P>
+
+            </ul>
+            
+            
+        </div>
+</main>
 <body>
-    <!--Cabeçalho-->
-    <header id="cabecalho">
-        <h1>TEOLOGIA/TECA</h1>
-    </header>
-
-    <!--Menu de navegação-->
-    <nav id="Menu">
-        <a href="index2.html" class="link" target="_self">Home</a>
-        <a href="#" class="link" >Referências</a>
-        <a href="#" class="link">Sobre</a>
-    </nav>
-
-    <!--Conteudo principal-->
-    <main id="principal">
-        <h2>Informações principais sobre o site!</h2>
-        <p id="p">Está é a pagina inicial do nosso site.
-             Aqui vc aprenderá e encontrará curiosidades e conteúdos sobre a biblia,
-              sendo este um pequeno site que te aproxima de Deus!</p>
-              <ul id="lista"><h3>Aqui você encontrará conteúdos como:</h3>
-                <li><I>TRADUÇÕES BIBLICAS</I></li>
-                <li><I>COMENTARIOS BIBLICOS</I></li>
-                <li><I>EXEGESES DE TEXTOS</I></li>
-                <li><I>DICAS DE DEVOCIONAL</I></li>
-              </ul>
-              <p>Obs:Se dirija a pagina Home para encontrar todos os conteúdos.</p>
-    </main>
-
-    <!--Referencias
-    <div id="container">
-        <h2 id="referencia">Referências dos autores:</h2>
-            <div class="float-box">Pr.Elizeu Rodrigues</div>
-            <div class="float-box" id="junior">Pr.Junior Trovão</div>
-            <div class="float-box" id="fraga">Pr.Juliano Fraga</div>
-            <div class="float-box" id="osiel">Pr.Osiel Gomes</div> -->
-    </div>
-    <!--Rodapé-->
-    <footer>
-        <p> &copy;2025 Meu site.Todos os meus direitos reservados. </p>
-    </footer>
-
-
-
-    
+        
 </body>
 </html>
