@@ -1,89 +1,106 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
-    padding: 0%;
-    text-align: center;
-}
-
-#cabecalho{
-    background-image:linear-gradient(to left,rgb(255, 0, 0) 30%, rgb(58, 13, 13));
-    color: rgb(0, 0, 0);
-    text-align: center;
-    padding: 2em 0;
-}
-#Menu{
-    background-color: rgb(0, 0, 0);
-    padding: 10px;
-    margin: 3px;
-    text-align: center;
-    border: solid 2px;
-}
-a:hover{
-    color: rgb(252, 252, 252);
-}
-#principal{
-    background-color: rgb(243, 243, 243);
-    text-align: center;
-    font-family: Arial black;
-    padding: 10px;
-    border-radius: 15px;
-    padding: 3px;
-    border: solid 3px;
-    margin: 10px;
-}
-
-#p{
-    font-family: sans-serif;
-}
-
-#lista{
-    text-align: center;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-
-.container{
-    width: 100%;
-    overflow: hidden;
-}
-
-#referencia{
     background-color: rgb(255, 255, 255);
-    color: rgb(15, 8, 8);
-    padding: 1em 0;
-    font-family: Arial, Helvetica, sans-serif;
+   }
+header h1{
+    font-size: calc(50px);
     text-align: center;
-}
+    margin: 100px;
 
-/*.float-box{
-    width: 300px;
-    height: 230px;
-    float: inline-start;
-    padding: 1% ;
-    background-color: rgb(224, 213, 51);
-    text-align: center;
-    line-height: 150px;
-    font-weight: bold;
-    margin: 3.2%;
+    
 }
-.float-box:hover{
-    background-image: url("/img/eli.jpg");
-    background-size: cover;
-
+main{
+    background-color: rgb(243, 243, 240);
+    margin: 100px;
+    padding: 100px;
 }
-#junior:hover{
-    background-image: url("/img/tro.jpg");
-    background-size: cover;
+h1{
+    text-align: left;
 }
-#fraga:hover{
-    background-image: url("/img/juliano.jpg");
+#inicial{
+    font-size: calc(19px);
+    font-family: Verdana, sans-serif;
 }
-#osiel:hover{
-    background-image: url("/img/osiel.jpg");
-}*/
-footer{
-    text-align: solid center,text;
-    padding: 1em 0;
-    color: rgb(252, 235, 0);
-    background-color: rgb(7, 3, 3);
+img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    left: 500px;
+    top: 30px;
+}
+.meio li{
+    padding-left: 60px;
+    padding-top: 10px;
+    list-style-type: none;
+    font-size: calc(35px);
+    font-weight: bolder;
+    border-left: 5px solid black;
+    
+}
+#drible{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#drible img{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+#ir{
+    position: relative;
+    top: 100px;
+    left: 650px;
+    font-family:Arial ;
+}
+#arremesso{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#arremesso img{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+#cur{
+    position: relative;
+    top: 100px;
+    left: 630px;
+    font-family:Arial ;
+}
+#passe{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#passe img{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 460px;
+}
+#tat{
+    position: relative;
+    top: 100px;
+    left: 670px;
+    font-family:Arial ;
+}
+#manejo{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#manejo img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 460px;
+}
+#kob{
+    position: relative;
+    top: 100px;
+    left: 675px;
+    font-family:Arial ;
 }
