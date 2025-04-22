@@ -1,5 +1,8 @@
 body{
     background-color: rgb(255, 255, 255);
+    display: block;
+
+    
    }
 header h1{
     font-size: calc(50px);
@@ -9,7 +12,7 @@ header h1{
     
 }
 main{
-    background-color: rgb(243, 243, 240);
+    background-color: rgb(226, 226, 217);
     margin: 100px;
     padding: 100px;
 }
@@ -24,7 +27,7 @@ img{
     width: 600px;
     height: 500px;
     position: relative;
-    left: 500px;
+    left: 480px;
     top: 30px;
 }
 .meio li{
@@ -36,6 +39,9 @@ img{
     border-left: 5px solid black;
     
 }
+.meio h1{
+    text-align: center;
+}
 #drible{
     font-size: calc(22px);
     font-family: Arial;
@@ -45,12 +51,12 @@ img{
     height: 400px;
     position: relative;
     top: 100px;
-    left: 500px;
+    left: 470px;
 }
 #ir{
     position: relative;
     top: 100px;
-    left: 650px;
+    left: 610px;
     font-family:Arial ;
 }
 #arremesso{
@@ -62,12 +68,12 @@ img{
     height: 400px;
     position: relative;
     top: 100px;
-    left: 500px;
+    left: 470px;
 }
 #cur{
     position: relative;
     top: 100px;
-    left: 630px;
+    left: 610px;
     font-family:Arial ;
 }
 #passe{
@@ -79,12 +85,12 @@ img{
     height: 400px;
     position: relative;
     top: 100px;
-    left: 460px;
+    left: 400px;
 }
 #tat{
     position: relative;
     top: 100px;
-    left: 670px;
+    left: 630px;
     font-family:Arial ;
 }
 #manejo{
@@ -96,11 +102,102 @@ img{
     height: 500px;
     position: relative;
     top: 100px;
-    left: 460px;
+    left: 430px;
 }
 #kob{
     position: relative;
     top: 100px;
-    left: 675px;
+    left: 640px;
     font-family:Arial ;
 }
+#rebote{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#rebote img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 430px;
+}
+#sha{
+    position: relative;
+    top: 100px;
+    left: 630px;
+    font-family:Arial ;
+}
+#bloqueio{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#bloqueio img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 420px;
+}
+#toc{
+    position: relative;
+    top: 100px;
+    left: 610px;
+    font-family:Arial ;
+}
+#bandeja{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#bandeja img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+#band{
+    position: relative;
+    top: 100px;
+    left: 550px;
+    font-family:Arial ;
+}
+#final{
+    list-style-type: none;
+}
+#final H1{
+    text-align: center;
+}
+.quadro-pequeno {
+    width: 600px; /* Largura do quadro */
+    height: 200px; /* Altura do quadro */
+    border: 3px solid black; /* Borda do quadro */
+    padding: 8px; /* Espaçamento interno do texto */
+    margin: 50px;
+    font-family: Arial;
+    font-size: calc(18px);
+    position: relative;
+    left: 345px;
+  }
+  .titulo{
+    text-align: center;
+  }
+  #roda{
+    margin: 0%;
+    padding: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+  }
+  footer{
+    text-align: center;
+    padding:1em 0;
+    margin: 0px;
+    line-height: 70px;
+    color: rgb(18, 98, 216);
+    background-color: rgb(7, 3, 3);
+    position: relative;
+    top:-100px;
+    
+}
+
+
