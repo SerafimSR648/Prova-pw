@@ -9,6 +9,7 @@
 <header>
     <h1>BASQUETE NA VEIA</h1>
 </header>
+<body>
 <main>
         <h1>QUAL É A FINALIDADE DESSE SITE?</h1>
         <div class="inicio">
@@ -17,9 +18,10 @@
                 sendo esse site uma mão amiga para você que está começando nesse esporte e que não sabe as regras, nem por onde começar,
                  mas que acima de tudo quer aprender e melhorar para jogar aquele basquete dahora e bonito. Então bora que bora!  
             </p>
-            <img src="/img/jordan.jpg" alt="frase motivadora do Jordan"><br>
+            <img src="/img/jor.jpg" alt="frase motivadora do Jordan"><br>
         </div>
         <br><div class="meio">
+            <br><br><br><br><br><br><br><br><br><br><hr><h1>FUNDAMENTOS</h1>
             <ul>
                <br><br><br><br><br><br> <li>DRIBLES</li>
                 <p id="drible">
@@ -35,7 +37,7 @@
                     <br><b>Arremesso no basquete</b> é o ato de lançar a bola em direção à cesta pra marcar pontos. É um <b>fundamento chave</b> e precisa de técnica: base firme, cotovelo alinhado, pulso firme e finalização com a mão "dentro da cesta".
                     <b><br>Dica rápida:</b> foco na mecânica, equilíbrio e repetição. Não é só força — é ritmo. Treine o arremesso parado, em movimento e sob pressão.
                     <b>Resumo:</b> um bom arremesso vem da consistência. Mira, respira, confia e solta.
-                    <br> <img src="/img/arremesso2.jpg" alt="Stephen Curry aremessando">
+                    <br> <img src="/img/curry2.jpg" alt="Stephen Curry aremessando">
                     <p id="cur"><i>Aremessando pick Stephen Curry</i></p>
                 </p>
 
@@ -57,12 +59,116 @@
                    <p id="kob"><i>Manejo pick Kobe Briant</i></p>
                 </P>
 
-            </ul>
-            
-            
+                <br><br><br><br><br><br><br><br><br><br><br> <li>REBOTE</li>
+                <p id="rebote">
+                    <br><b>Rebote no basquete</b>é a recuperação da bola após um arremesso errado, seja no ataque ou na defesa. É um <b>fundamento crucial</b> pra garantir mais posse de bola, impedir pontos do adversário e virar o jogo a favor do time.
+                   <br><b>Dica rápida:</b> sempre faça o box out, salte com explosão e segure firme a bola com as duas mãos. Posicionamento e agressividade fazem a diferença. Antecipar a trajetória da bola é chave.
+                    <br><b>Resumo:</b> bom rebote = posição + atitude. Quem pega mais rebote, controla o jogo.
+                    <br><img src="/img/Sha.jpg" alt="Foto do Shaquille O'Neal">
+                    <p id="sha"><i>Rebote pick Shaquille O'Neal</i></p>
+                </p>
+
+                <br><br><br><br><br><br><br><br><br><br><br> <li>BLOQUEIO</li>
+                <P id="bloqueio">
+                    <br><b>Bloqueio no basquete</b> é o movimento usado para impedir fisicamente que o adversário passe ou arremesse livre. Também é o ato de “cortar” o caminho para liberar um companheiro (bloqueio ofensivo). Já na defesa, é a tentativa de parar ou desviar um arremesso (toco).
+                    <br><b>Dica rápida:</b> no bloqueio ofensivo, fique firme, pés plantados e evite mover o corpo (pra não fazer falta). No toco, salte no tempo certo, com o braço estendido e sem encostar no atacante.
+                    <br><b>Resumo:</b> bom bloqueio = tempo + posicionamento. Quem bloqueia bem, cria jogadas e protege o garrafão.
+                    <br> <img src="img/toco.jpg" alt="Imagem de um toco no Lebron">
+                    <p id="toc"><i>Toco pick Allen no Lebron. Frio!</i></p>
+                </P>
+
+                <br><br><br><br><br><br><br><br><br><br><br> <li>BANDEJA</li>
+                <p id="bandeja">
+                    <br><b>Bandeja no basquete</b> é um arremesso feito em movimento, bem próximo à cesta, geralmente após um drible ou infiltração. É um dos <b>fundamentos</b> mais básicos e eficientes pra pontuar.
+                    <br><b>Dica rápida:</b> use a tabela, salte com a perna contrária à mão que arremessa, e finalize com leveza. Treine dos dois lados e com as duas mãos pra ganhar confiança.
+                    <br><b>Resumo:</b> boa bandeja = coordenação + precisão. Quem domina a bandeja, pontua com facilidade.
+                    <br> <img src="img/band.jpg" alt="Lebron fazendo bandeja">                
+                    <p id="band">Bandeja pick GOAT do basquete.Lebron!</p>
+                </p>
+
+            </ul>                       
+        </div>
+        <div id="final">
+
+        <br><br><br><br><br><br><br><br><br><br><hr><h1>REGRAS</h1>
+        <div class="quadro-pequeno">
+            <h4 class="titulo">PASSE</h4>
+            <p>Passar a bola é a base do jogo coletivo. Tem vários tipos: peito, quicado, por cima da cabeça...
+               <br><b> 📌 Regras básicas:</b>
+                Não pode ficar segurando a bola pra sempre - tem 5 segundos pra passar, senão é bola do adversário.            
+                Andou com a bola sem driblar? É caminhada (viagem).
+                Não pode dar passe perigoso ou sem olhar, senão vira contra-ataque pra eles!</p>
+          </div>
+
+          <div class="quadro-pequeno">
+            <h4 class="titulo">DRIBLE</h4>
+            <p>
+                É o que te deixa livre pra andar com a bola. Driblar é quicar no chão e se movimentar.
+              <br><b> 📌 Regras básicas: </b>  
+                Só pode dar dois passos sem driblar - mais que isso, falta.              
+                Parou de driblar? Não pode driblar de novo, senão é duplo drible.              
+                Nada de conduzir a bola como se fosse uma maleta, tem que ser drible limpo.
+            </p>
+          </div>
+
+          <div class="quadro-pequeno">
+            <h4 class="titulo">MANEJO DE BOLA</h4>
+            <p>
+                É o controle total da bola nas mãos. Driblar com estilo, trocar de direção, fazer finta... tudo isso é manejo.
+                <br><b>📌 Regras básicas:</b>
+                Tem que driblar com a mão por cima ou do lado da bola. Se virar a mão por baixo e “carregar”, é falta (condução).
+                Nada de ficar só com uma mão - tem que saber usar as duas!
+            </p>
+          </div>
+
+          <div class="quadro-pequeno">
+            <h4 class="titulo">ARREMESSO</h4>
+            <p>
+                É a finalização. O momento de tentar a cesta, seja de perto, longe ou da linha de 3.
+                <br><b>📌 Regras básicas:</b>
+                Seu time tem 24 segundos pra arremessar, senão perde a bola.
+                Na linha de lance livre, não pode pisar na linha até a bola sair da mão.
+                Pra valer 3 pontos, o arremessador tem que estar fora da linha de 3 no momento do arremesso.
+            </p>
+          </div>
+
+          <div class="quadro-pequeno">
+            <h4 class="titulo">BANDEJA</h4>
+            <p>
+                A famosa finalização em movimento, geralmente depois de driblar e invadir o garrafão.
+                <br><b>📌 Regras básicas:</b>
+                Depois de parar o drible, só pode dar 2 passos.
+                Se der mais que isso, é caminhada.
+                Se bater no defensor com o corpo ou braço, pode ser falta de ataque.
+            </p>
+          </div>
+
+          <div class="quadro-pequeno">
+            <h4 class="titulo">BLOQUEIO</h4>
+            <p>
+                Tem dois tipos: o bloqueio pra liberar um companheiro (screen) e o toco na defesa.
+                <br><b>📌 Regras básicas: </b>
+                No bloqueio ofensivo, tem que ficar parado no lugar. Se se mexer e atrapalhar o defensor, é falta de ataque.
+                No toco, não pode encostar no braço ou corpo do cara que tá arremessando. Tem que ser limpo na bola.
+            </p>
+          </div>
+
+          <div class="quadro-pequeno">
+            <h4 class="titulo">REBOTE</h4>
+            <p>
+                Quando alguém erra o arremesso, o rebote é sua chance de pegar a bola e manter o jogo vivo – seja no ataque ou na defesa.
+                <br><b>📌 Regras básicas:</b>
+                Não pode sair empurrando os outros pra pegar a bola. Use o box out (travar o adversário com o corpo).
+                Suba firme e segure com as duas mãos. Se bater na mão do adversário de forma agressiva, é falta.
+            </p>
+          </div>
+
+          
         </div>
 </main>
-<body>
-        
+
 </body>
+ 
+<footer><p> &copy;2025 Meu site.Todos os meus direitos reservados.</footer>
+
 </html>
